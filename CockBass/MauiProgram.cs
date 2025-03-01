@@ -1,7 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
 
 namespace CockBass;
-
 public static class MauiProgram
 {
 	public static MauiApp CreateMauiApp()
